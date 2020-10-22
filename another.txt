@@ -1,0 +1,2 @@
+Este es un archivo de texto de prueba 
+Lo he creado desde la linea de comandos y lo voy a subir a un repositorio en github
